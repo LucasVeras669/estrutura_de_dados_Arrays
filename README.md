@@ -6,8 +6,8 @@ Tenho explorado o ChatGPT para me trazer problemas através de histórias, e ass
 ## A História de Julia e Suas Coleções de Cartinhas
 Personagens:
 
-Julia: Uma menina de 8 anos que adora colecionar cartinhas de animais.
-Mamãe: A mãe de Julia, que ajuda a organizar a coleção.
+Julia: Uma menina de 8 anos que adora colecionar cartinhas de animais.</br>
+Mamãe: A mãe de Julia, que ajuda a organizar a coleção.</br>
 Coleção de Cartinhas: Um array na vida real!
 
 ### A História:
