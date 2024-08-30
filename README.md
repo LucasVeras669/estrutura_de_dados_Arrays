@@ -30,3 +30,6 @@ Com o passar dos dias, Julia começou a colecionar mais cartinhas. Quando queria
 Essa caixa mágica de compartimentos numerados ajudou Julia a manter suas cartinhas organizadas e fáceis de acessar. Agora, Julia pode mostrar suas cartinhas para as amigas sem perder tempo procurando, e ela aprendeu que essa ideia de organizar em compartimentos é como um array: uma maneira de guardar coisas em ordem para encontrá-las rapidinho!
 
 Moral da História: O array na programação funciona como a caixa de cartinhas da Julia. Ele ajuda a organizar dados em posições numeradas, facilitando a busca e a adição de novos itens. Assim como Julia sabia onde estava cada cartinha pelo número do compartimento, os computadores sabem onde está cada dado pelo número do índice do array.
+
+## Linguagem
+- Javascript
