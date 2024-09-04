@@ -60,6 +60,11 @@ class Caixa {
     this.compartimentos = [];
     this.capacidade = 10;
   }
+
+  pegarCarta(indiceCarta) {
+    console.log(`Júlia tirou a carta: ${this.compartimentos[indiceCarta].nome}, da caixa.`)
+ }
+
 }
 
 // Criando a personagem Júlia e mãe da Júlia.
@@ -93,7 +98,7 @@ maeDaJulia.entregarCaixa();
 // Júlia recebe a caixa.
 personagemPrincipal.receberCaixa(caixa);
 
-// Júlia organiza as cartas na caixa
+// Júlia organiza as cartas na caixa.
 personagemPrincipal.organizar(caixa, leao);
 personagemPrincipal.organizar(caixa, girafa);
 personagemPrincipal.organizar(caixa, efefante);
@@ -106,5 +111,5 @@ personagemPrincipal.organizar(caixa, tatu);
 personagemPrincipal.organizar(caixa, leoa);
 personagemPrincipal.organizar(caixa, cobra);
 
-// Júlia encontra a carta que ela precisa com rapidez.
-
+// Júlia encontra a carta que ela precisa dentro da caixa com rapidez.
+personagemPrincipal.caixa.pegarCarta(0)
