@@ -3,6 +3,8 @@ Este projeto visa consolidar o conteúdo de estrutura de dados e algoritmo. Aqui
 
 Tenho explorado o ChatGPT para me trazer problemas através de histórias, e assim, com abstração, estrutura de dados a algoritmo, resolver o problema trazido pela história.
 
+Em alguns casos precisei usar ChatGPT para me tirar dúvidas de semânticas.
+
 ## A História de Julia e Suas Coleções de Cartinhas
 Personagens:
 
